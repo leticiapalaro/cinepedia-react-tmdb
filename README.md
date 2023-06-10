@@ -18,19 +18,30 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
 
 # Funcionalidades
 
-1. Carrosséis de Recomendação
+1. ## Carrosséis de Recomendação
     1. Na página inicial, há um carrossel com os filmes mais buscados e com as melhores notas, e também existe uma página dedicada a dois carrosséis, de novidades e futuros lançamentos.
-        1. O carrossel com os filmes mais buscados está disponível apenas para computador, devido as limitações de tamanho da tela. Mas página a dedicada a dois carrosséis, de novidades e futuros lançamentos permanece para a versão mobile.
+        1. Feito com `react-alice-carousel`.
+        2. O carrossel com os filmes mais buscados está disponível apenas para computador, devido as limitações de tamanho da tela. Mas página a dedicada a dois carrosséis, de novidades e futuros lançamentos permanece para a versão mobile.
     3. O carrossel gira automaticamente a cada 2 segundos, ele para de girar colocando o cursor em cima do carrossel, permitindo arrastar ou clicar nos botões para navegar entre os itens.
     4. Ao clicar no pôster, uma janela flutuante é exibida com mais informações.
         1. Para fechar a janela flutuante, basta clicar no botão fechar, pressionar a tecla ESC ou clicar fora da janela.
     5. Cada item trás o tipo de mídia (filme ou série), poster, título, nota e data de lançamento.
         1. A nota possui um css que varia de acordo com a nota, sendo preenchido com um radial grandient e varias especificações via JS para refletir melhor a nota visualmente.
-2. Pesquisa de Filmes/Séries
+2. ## Pesquisa de Filmes/Séries
      1. É possível pesquisar por um item específico (filme ou série) com 3 campos: uma palavra chave que faz parte do nome do item (obrigatório), ano de lançamento (opcional - não é o ano mínimo, mas o ano exato do lançamento), nota mínima (opcional).
      2. Ele retorna um carrossel semelhante ao carrossel de recomendações, a única diferença é que ele não gira automaticamente para o usuário poder analisar melhor os resultados, a navegação é feita arrastando ou clicando nos botões para navegar entre os itens.
-3. Janela flutuante com detalhes dos itens
+3. ## Janela flutuante com detalhes dos itens
      1. A janela flutuante trás informações como: nome da mídia, tipo de mídia, gênero da mídia, ano de lançamento, sinopse (se disponível), trailers (se disponível), provedores para assistir (se disponível) - ex: amazon, netflix, etc.
-         1. Para fechar a janela flutuante, basta clicar no botão fechar, pressionar a tecla ESC ou clicar fora da janela.
-         2. Os provedores para assistir estão separados por streaming, aluguel e compra.
+         1. Janela flutuante feita com `react-modal-dialog` e devido as restrições dos frames com link por variáveis, player de vídeo feito com `react-player`.
+         2. Para fechar a janela flutuante, basta clicar no botão fechar, pressionar a tecla ESC ou clicar fora da janela.
+         3. Os provedores para assistir estão separados por streaming, aluguel e compra.
+4. ## Variação de Temas - Escuro (padrão) e Claro
+     1. Botão de switch de temas, que altera a imagem de background, a cor do background, a cor das sombras, a cor das fontes, a cor das bordas, etc.
+         1. Feito com ThemeProvider do `styled-components`.
+         2. Utilizado um hook personalizado para switch dos temas e outros componentes que precisam de controles true/false.
+5. ## Responsivo
+     1. Todos os itens foram trabalhados de forma responsiva, se adaptando a desktops e dispositivos móveis.
+         1. Dentro do GlobalStyles, foram configuradas duas classes globais `apenas-desktop` e `apenas-mobile`, ao colocar essa classe em um item ele irá ser um item que renderiza somente em um determinado tipo de resolução.
+
+
 
