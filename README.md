@@ -1,11 +1,38 @@
-# cinepedia-react-tmdb
+# Cinepédia-v2
 Aplicação web no formato SPA, feita com React alimentada com a API do TMDB (The Movie Data Base). A aplicação possui recomendações de filmes/séries e uma busca por algum item específico.
 
+[Projeto Online](https://cinepedia-v2.vercel.app)
+
+# Pré-requisitos
+Antes de executar este projeto, verifique se você atende aos seguintes requisitos:
+1. Node.js (versão 18.16.0 ou superior)
+2. Visual Studio Code (ou qualquer outro editor de sua preferência)
+Certifique-se de ter o Node.js instalado em seu sistema e definido no PATH. Você pode verificar se o Node.js está instalado digitando o seguinte comando no terminal:
+```
+node --version
+```
+Além disso, é recomendado utilizar o Visual Studio Code como editor de código, mas você pode optar por qualquer outro editor de sua preferência.
 # Para utilizar o Projeto
-1. Adicione sua chave no TMDB em src/services/api.js
-2. No prompt navegue até a pasta raiz do projeto
-3. Instale as dependências com `yarn install` ou `npm install`
-4. Rode o projeto com `yarn start` ou `npm start`
+Siga as etapas abaixo para configurar e executar o projeto:
+1. Adicione sua chave no TMDB em src/services/api.js.
+2. No prompt, navegue até a pasta raiz do projeto.
+3.Instale as dependências necessárias executando o comando:
+```
+yarn install
+```
+ou
+```
+npm install
+```
+4. Rode o projeto utilizando o comando:
+```
+yarn start
+```
+ou
+```
+npm start
+```
+**Certifique-se de substituir sua-chave pelo valor correto da sua chave no arquivo `src/services/api.js`.**
 
 # Créditos
 1. Icone da aplicação retirado do site Flaticon: <a href="https://www.flaticon.com/free-icons/cinema" title="cinema icons">Cinema icons created by Freepik - Flaticon</a>
