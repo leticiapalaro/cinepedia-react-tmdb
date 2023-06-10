@@ -84,7 +84,7 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/7f9735e7-521e-4c59-b90d-f68a15a55e7f)
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/dda9e7a3-7bbc-40d3-be3c-65033769e633)
 
-# Mobile
+## Mobile
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/25f167d4-92c8-4a6f-b1fa-5009e33c6c70)
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/2c4b85bc-c2c5-43d1-bede-c0d5f59e3080)
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/3fa826cc-bf24-481a-a82d-9089296bd190)
@@ -95,3 +95,10 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/e01c35ed-5896-4eec-b26b-265c6f51fb3f)
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/32b2b9dc-8e80-456e-9c02-c88eacaa4643)
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/2a86ae25-9c7c-4aca-9098-f45599e4868f)
+
+# Sobre a Dev
+
+<div align="center"> 
+  <img height="200vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/ok.gif?raw=true"><br>  <a href="https://www.linkedin.com/in/leticiapalaro/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank"></a>
+  <a href = "mailto:leticiapalaro@live.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
+</div>
