@@ -85,3 +85,13 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
 ![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/dda9e7a3-7bbc-40d3-be3c-65033769e633)
 
 # Mobile
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/25f167d4-92c8-4a6f-b1fa-5009e33c6c70)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/2c4b85bc-c2c5-43d1-bede-c0d5f59e3080)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/3fa826cc-bf24-481a-a82d-9089296bd190)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/7cc6e3a8-b7f3-4407-bc12-abc2b041bdb5)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/91fe2018-11f3-4e82-ba60-424ae47fd9da)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/fcb16639-f38c-4202-8a20-2a73b06b8048)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/e59bd067-0e71-4746-a2bc-4332da7f32b7)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/e01c35ed-5896-4eec-b26b-265c6f51fb3f)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/32b2b9dc-8e80-456e-9c02-c88eacaa4643)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/2a86ae25-9c7c-4aca-9098-f45599e4868f)
