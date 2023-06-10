@@ -98,6 +98,16 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
 
 # Sobre a Dev
 
+Olá! Sou Letícia Palaro, uma mulher entusiasmada e determinada, formada em Análise e Desenvolvimento de Sistemas e atualmente cursando uma pós-graduação em Gestão de Projetos.
+
+Desde a minha infância, fui cativada pela tecnologia. Tudo começou com o incrível universo dos jogos, onde embarquei em emocionantes aventuras com o meu querido Nintendo64. À medida que o tempo passava, acompanhei a evolução tecnológica, migrando para os jogos de computador e experimentando novas possibilidades.
+
+Sou movida pela paixão de aprender constantemente, e essa mentalidade me impulsiona a me concentrar ao máximo nas minhas atividades.
+
+Com determinação e entusiasmo, estou pronta para enfrentar os desafios futuros e contribuir para um mundo impulsionado pela tecnologia.
+
+# Contato
+
 <div align="center"> 
   <img height="200vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/ok.gif?raw=true"><br>  <a href="https://www.linkedin.com/in/leticiapalaro/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank"></a>
   <a href = "mailto:leticiapalaro@live.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
