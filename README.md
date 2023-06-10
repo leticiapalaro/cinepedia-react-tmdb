@@ -21,7 +21,7 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
 1. Carrosséis de Recomendação
     1. Na página inicial, há um carrossel com os filmes mais buscados e com as melhores notas, e também existe uma página dedicada a dois carrosséis, de novidades e futuros lançamentos.
         1. O carrossel com os filmes mais buscados está disponível apenas para computador, devido as limitações de tamanho da tela. Mas página a dedicada a dois carrosséis, de novidades e futuros lançamentos permanece para a versão mobile.
-    3. O carrossel gira automaticamente a cada 2 segundos, ele para de girar colocando o cursos em cima do carrossel, permitindo arrastar ou clicar nos botões para navegar entre os itens.
+    3. O carrossel gira automaticamente a cada 2 segundos, ele para de girar colocando o cursor em cima do carrossel, permitindo arrastar ou clicar nos botões para navegar entre os itens.
     4. Ao clicar no pôster, uma janela flutuante é exibida com mais informações.
         1. Para fechar a janela flutuante, basta clicar no botão fechar, pressionar a tecla ESC ou clicar fora da janela.
     5. Cada item trás o tipo de mídia (filme ou série), poster, título, nota e data de lançamento.
@@ -30,5 +30,7 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
      1. É possível pesquisar por um item específico (filme ou série) com 3 campos: uma palavra chave que faz parte do nome do item (obrigatório), ano de lançamento (opcional - não é o ano mínimo, mas o ano exato do lançamento), nota mínima (opcional).
      2. Ele retorna um carrossel semelhante ao carrossel de recomendações, a única diferença é que ele não gira automaticamente para o usuário poder analisar melhor os resultados, a navegação é feita arrastando ou clicando nos botões para navegar entre os itens.
 3. Janela flutuante com detalhes dos itens
-     1. É possível pesquisar por um item específico (filme ou série) com 3 campos: uma palavra chave que faz parte do nome do item (obrigatório), ano de lançamento (opcional - não é o ano mínimo, mas o ano exato do lançamento), nota mínima (opcional).
+     1. A janela flutuante trás informações como: nome da mídia, tipo de mídia, gênero da mídia, ano de lançamento, sinopse (se disponível), trailers (se disponível), provedores para assistir (se disponível) - ex: amazon, netflix, etc.
+         1. Para fechar a janela flutuante, basta clicar no botão fechar, pressionar a tecla ESC ou clicar fora da janela.
+         2. Os provedores para assistir estão separados por streaming, aluguel e compra.
 
