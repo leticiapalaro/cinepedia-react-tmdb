@@ -70,5 +70,18 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
      1. Todos os itens foram trabalhados de forma responsiva, se adaptando a desktops e dispositivos móveis.
          1. Dentro do GlobalStyles, foram configuradas duas classes globais `apenas-desktop` e `apenas-mobile`, ao colocar essa classe em um item ele irá ser um item que renderiza somente em um determinado tipo de resolução.
 
+# Imagens do Projeto
 
+## Desktop
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/8f6bc0e9-fa10-46c3-a502-8d9b1c449e16)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/5ee0a5a0-59c1-45e1-b994-6d047d53ce0a)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/c282854a-d1f5-447f-8306-81ea81de5dcb)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/7f340fad-7802-4a57-b940-f8a89e8bf5ea)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/454529c8-14c1-418b-b4ed-0575510a90ae)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/e7e60db8-d74c-4a8b-b7d4-4c1a7f45da73)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/9c8fd6a9-4809-4b62-97c1-ca06a36c9338)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/7531ea54-84b7-4f14-9aaf-70c836013736)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/7f9735e7-521e-4c59-b90d-f68a15a55e7f)
+![image](https://github.com/leticiapalaro/cinepedia-react-tmdb/assets/109923860/dda9e7a3-7bbc-40d3-be3c-65033769e633)
 
+# Mobile
