@@ -61,7 +61,7 @@ Resolvi adaptar e fazer um site com informações de filmes e séries, alimentad
      1. A janela flutuante trás informações como: nome da mídia, tipo de mídia, gênero da mídia, ano de lançamento, sinopse (se disponível), trailers (se disponível), provedores para assistir (se disponível) - ex: amazon, netflix, etc.
          1. Janela flutuante feita com `react-modal-dialog` e devido as restrições dos frames com link por variáveis, player de vídeo feito com `react-player`.
          2. Para fechar a janela flutuante, basta clicar no botão fechar, pressionar a tecla ESC ou clicar fora da janela.
-         3. Os provedores para assistir estão separados por streaming, aluguel e compra.
+         3. Os provedores para assistir estão separados por streaming, aluguel e compra. Eles também estão filtrados para mostrarem somente opções que tenham conteúdo dublado ou legendado em pt-BR.
 4. ## Variação de Temas - Escuro (padrão) e Claro
      1. Botão de switch de temas, que altera a imagem de background, a cor do background, a cor das sombras, a cor das fontes, a cor das bordas, etc.
          1. Feito com ThemeProvider do `styled-components`.
